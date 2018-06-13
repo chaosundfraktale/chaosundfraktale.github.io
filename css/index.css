@@ -1,0 +1,21 @@
+#Willkommen {
+  background: #0b486b;
+}
+
+.btn1 {
+  background: #3b8686 !important;
+  color: white !important;
+  border-color: #3b8686 !important;
+}
+
+.btn2 {
+  background: #79bd9a !important;
+  border-color: #79bd9a !important;
+  color: whitesmoke !important;
+}
+
+.btn3 {
+  background: #a8dba8 !important;
+  border-color: #a8dba8 !important;
+  color: gray !important;
+}
